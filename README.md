@@ -1,1 +1,1 @@
-# Adjustable-Voltage-Regulator-
+# Adjustable-Voltage-Regulator-using LM317
